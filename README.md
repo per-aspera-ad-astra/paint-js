@@ -1,0 +1,1 @@
+Test project based on Udemy course - [https://www.udemy.com/course/javascript-basics-2021-paintjs/](https://www.udemy.com/course/javascript-basics-2021-paintjs/)
